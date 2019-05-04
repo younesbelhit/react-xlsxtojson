@@ -1,0 +1,10 @@
+body {
+  font-family: 'Gugi', cursive!important;
+  background-color: #EEE!important; 
+}
+.card {
+  padding: 20px;
+}
+#file {
+  margin-bottom: 20px;
+}
